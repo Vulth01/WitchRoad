@@ -27,22 +27,26 @@ public class CardGameManager : MonoBehaviour
         cardCap = playerPlacements.Length;
     }
 
-    private void PlaceCard(Card card, int player)
+    private void PlaceCard(Card card)
     {
         card.played = true;
+        
+        StartCoroutine(card.SmoothLerpPlace(
+            card.transform.position, 
+            playerPlacements[playerCardCounter].position, 
+            1f, 1));
+        
+        card.transform.SetParent(playedCards);
+        playerCards.Add(card);
+        playerCardCounter++;
+    }
 
-        if (player is 1)
-        {
-            StartCoroutine(card.SmoothLerpPlace(
-                card.transform.position, 
-                playerPlacements[playerCardCounter].position, 
-                1f));
-            
-            card.transform.SetParent(playedCards);
-            playerCards.Add(card);
-            playerCardCounter++;
-        }
-
+    private void PlaceEnemyCard(Card card)
+    {
+        StartCoroutine(card.SmoothLerpPlace(card.transform.position, enemyPlacements[enemyCardCounter].position, 1f, -1));
+        enemyCards.Add(card);
+        enemyCardCounter++;
+        
         if (playerCardCounter >= cardCap) GameEnd();
     }
 
@@ -90,10 +94,12 @@ public class CardGameManager : MonoBehaviour
     private void OnEnable()
     {
         Card.cardClicked += PlaceCard;
+        PlayerCards.enemyTurnEvent += PlaceEnemyCard;
     }
 
     private void OnDisable()
     {
         Card.cardClicked -= PlaceCard;
+        PlayerCards.enemyTurnEvent -= PlaceEnemyCard;
     }
 }

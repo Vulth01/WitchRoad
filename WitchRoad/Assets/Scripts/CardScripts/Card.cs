@@ -13,7 +13,7 @@ public class Card : MonoBehaviour
     public float score = 0;
     public bool played = false;
 
-    public delegate void CardClickEvent(Card card, int player);
+    public delegate void CardClickEvent(Card card);
     public static event CardClickEvent cardClicked;
     
     public delegate void DiscardCards();
@@ -48,10 +48,10 @@ public class Card : MonoBehaviour
     public void ClickCard()
     {
         if (played) return;
-        cardClicked?.Invoke(this, 1);
+        cardClicked?.Invoke(this);
     }
     
-    public IEnumerator SmoothLerp (Vector3 startPos, Vector3 endPos, float time)
+    private IEnumerator SmoothLerp (Vector3 startPos, Vector3 endPos, float time)
     {
         float elapsedTime = 0;
         
@@ -63,7 +63,7 @@ public class Card : MonoBehaviour
         }
     }
     
-    public IEnumerator SmoothLerpPlace (Vector3 startPos, Vector3 endPos ,float time)
+    public IEnumerator SmoothLerpPlace (Vector3 startPos, Vector3 endPos ,float time, int player)
     {
         float elapsedTime = 0;
         Vector3 currentScale = this.transform.localScale;
@@ -80,6 +80,7 @@ public class Card : MonoBehaviour
             yield return null;
         }
         
-        discardCards?.Invoke();
+        if(player is 1)
+            discardCards?.Invoke();
     }
 }

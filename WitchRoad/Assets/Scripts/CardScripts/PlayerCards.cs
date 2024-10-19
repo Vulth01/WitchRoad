@@ -11,11 +11,14 @@ public class PlayerCards : MonoBehaviour
 {
     [SerializeField] private CardSO[] cardSOs;
     [SerializeField] private GameObject cardTemplate;
+    [SerializeField] private GameObject enemyCardTemplate;
     private List<Card> currentHand = new List<Card>();
     private List<Vector3> currentHandBasePos = new List<Vector3>();
     private Vector3 middleCardPos;
-    private int handsDealt = 0;
 
+    public delegate void EnemyTurnEvent(Card card);
+    public static event EnemyTurnEvent enemyTurnEvent;
+    
     private void Start()
     {
         DrawCards();
@@ -26,22 +29,39 @@ public class PlayerCards : MonoBehaviour
         for (int i = 0; i < transform.childCount; i++)
         {
             GameObject newCard = Instantiate(cardTemplate, transform.GetChild(i));
-            int decider = Random.Range(0, cardSOs.Length);
-            newCard.GetComponent<Card>().cardSO = cardSOs[decider];
-            newCard.GetComponent<Image>().sprite = cardSOs[decider].cardSprite;
-            newCard.transform.localPosition = Vector3.zero;
-            newCard.transform.localRotation = Quaternion.identity;
-            currentHand.Add(newCard.GetComponent<Card>());
+            currentHand.Add(GetRandomCard(newCard));
             if (i is 2) middleCardPos = newCard.transform.position;
             
             currentHandBasePos.Add(newCard.transform.parent.position);
         }
+    }
 
-        handsDealt++;
+    private Card GetRandomCard(GameObject newCard)
+    {
+        int decider = Random.Range(0, cardSOs.Length);
+        newCard.GetComponent<Card>().cardSO = cardSOs[decider];
+        newCard.GetComponent<Image>().sprite = cardSOs[decider].cardSprite;
+        newCard.transform.localPosition = Vector3.zero;
+        newCard.transform.localRotation = Quaternion.identity;
+
+        return newCard.GetComponent<Card>();
+    }
+
+    private Card EnemyCard()
+    {
+        GameObject newCard = Instantiate(enemyCardTemplate, transform.parent.GetChild(2));
+        return GetRandomCard(newCard);
     }
 
     private void DiscardCards()
     {
+        StartCoroutine(EnemyTurn(EnemyCard()));
+    }
+
+    private IEnumerator EnemyTurn(Card card)
+    {
+        enemyTurnEvent?.Invoke(card);
+        yield return new WaitForSeconds(1f);
         StartCoroutine(DiscardLerp(middleCardPos, 1));
     }
     
