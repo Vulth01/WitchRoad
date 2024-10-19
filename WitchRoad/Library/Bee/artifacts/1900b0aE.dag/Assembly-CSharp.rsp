@@ -359,8 +359,14 @@
 "Assets/Scripts/CardScripts/CardGameManager.cs"
 "Assets/Scripts/CardScripts/CardSO.cs"
 "Assets/Scripts/CardScripts/PlayerCards.cs"
+<<<<<<< Updated upstream
 "Assets/Scripts/CarriageSpawnerScript.cs"
 "Assets/Scripts/PlayerMovement.cs"
+=======
+"Assets/Scripts/TrainScripts/CarriageSpawnerScript.cs"
+"Assets/Scripts/TrainScripts/InteractionManager.cs"
+"Assets/Scripts/TrainScripts/PlayerMovement.cs"
+>>>>>>> Stashed changes
 "Assets/Scripts/UI/Menu.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"

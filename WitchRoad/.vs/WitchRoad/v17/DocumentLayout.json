@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\damie\\OneDrive\\Desktop\\WitchRoad\\WitchRoad\\WitchRoad\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F98A8716-483E-9F83-A15E-D89D5E718A2C}|Assembly-CSharp.csproj|c:\\users\\damie\\onedrive\\desktop\\witchroad\\witchroad\\witchroad\\assets\\scripts\\carriagespawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F98A8716-483E-9F83-A15E-D89D5E718A2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carriagespawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F98A8716-483E-9F83-A15E-D89D5E718A2C}|Assembly-CSharp.csproj|c:\\users\\damie\\onedrive\\desktop\\witchroad\\witchroad\\witchroad\\assets\\scripts\\trainscripts\\interactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98A8716-483E-9F83-A15E-D89D5E718A2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trainscripts\\interactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F98A8716-483E-9F83-A15E-D89D5E718A2C}|Assembly-CSharp.csproj|c:\\users\\damie\\onedrive\\desktop\\witchroad\\witchroad\\witchroad\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F98A8716-483E-9F83-A15E-D89D5E718A2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F98A8716-483E-9F83-A15E-D89D5E718A2C}|Assembly-CSharp.csproj|c:\\users\\damie\\onedrive\\desktop\\witchroad\\witchroad\\witchroad\\assets\\scripts\\trainscripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98A8716-483E-9F83-A15E-D89D5E718A2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trainscripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A8716-483E-9F83-A15E-D89D5E718A2C}|Assembly-CSharp.csproj|C:\\Users\\damie\\OneDrive\\Desktop\\WitchRoad\\WitchRoad\\WitchRoad\\assets\\scripts\\trainscripts\\carriagespawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98A8716-483E-9F83-A15E-D89D5E718A2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trainscripts\\carriagespawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CarriageSpawnerScript.cs",
-              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\WitchRoad\\WitchRoad\\WitchRoad\\Assets\\Scripts\\CarriageSpawnerScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CarriageSpawnerScript.cs",
-              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\WitchRoad\\WitchRoad\\WitchRoad\\Assets\\Scripts\\CarriageSpawnerScript.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CarriageSpawnerScript.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA8AAAAAAAAA",
+              "Title": "InteractionManager.cs",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\WitchRoad\\WitchRoad\\WitchRoad\\Assets\\Scripts\\TrainScripts\\InteractionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrainScripts\\InteractionManager.cs",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\WitchRoad\\WitchRoad\\WitchRoad\\Assets\\Scripts\\TrainScripts\\InteractionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrainScripts\\InteractionManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T11:41:50.777Z",
+              "WhenOpened": "2024-10-19T12:59:27.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\WitchRoad\\WitchRoad\\WitchRoad\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\WitchRoad\\WitchRoad\\WitchRoad\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACsAAAArAAAA",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\WitchRoad\\WitchRoad\\WitchRoad\\Assets\\Scripts\\TrainScripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrainScripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\WitchRoad\\WitchRoad\\WitchRoad\\Assets\\Scripts\\TrainScripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrainScripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T10:12:12.283Z",
+              "WhenOpened": "2024-10-19T12:58:43.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarriageSpawnerScript.cs",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\WitchRoad\\WitchRoad\\WitchRoad\\Assets\\Scripts\\TrainScripts\\CarriageSpawnerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrainScripts\\CarriageSpawnerScript.cs",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\WitchRoad\\WitchRoad\\WitchRoad\\Assets\\Scripts\\TrainScripts\\CarriageSpawnerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrainScripts\\CarriageSpawnerScript.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:58:42.663Z",
               "EditorCaption": ""
             }
           ]
