@@ -11,8 +11,10 @@ public class Card : MonoBehaviour
     private Vector3 basePos;
     private Vector3 velocity = Vector3.zero;
     public CardSO cardSO;
+    public float score = 0;
+    public bool played = false;
 
-    public delegate void CardClickEvent(CardSO card);
+    public delegate void CardClickEvent(Card card, int player);
     public static event CardClickEvent cardClicked;
 
     private void Awake()
@@ -21,32 +23,57 @@ public class Card : MonoBehaviour
         basePos = transform.position;
     }
 
+    private void Start()
+    {
+        score = cardSO.score;
+    }
+
     public void OnHoverEnter()
     {
+        if (played) return;
         siblingIndex = transform.parent.GetSiblingIndex();
         transform.parent.SetAsLastSibling();
-        StartCoroutine(SmoothLerp(transform.position, hoverPlacement));
+        StartCoroutine(SmoothLerp(transform.position, hoverPlacement, 0.3f));
     }
 
     public void OnHoverExit()
     {
+        if (played) return;
         transform.parent.SetSiblingIndex(siblingIndex);
-        StartCoroutine(SmoothLerp(transform.position, basePos));
+        StartCoroutine(SmoothLerp(transform.position, basePos, 0.3f));
     }
 
     public void ClickCard()
     {
-        cardClicked?.Invoke(cardSO);
+        if (played) return;
+        cardClicked?.Invoke(this, 1);
     }
     
-    private IEnumerator SmoothLerp (Vector3 startPos, Vector3 endPos)
+    public IEnumerator SmoothLerp (Vector3 startPos, Vector3 endPos, float time)
     {
         float elapsedTime = 0;
-        float time = 0.3f;
         
         while (elapsedTime < time)
         {
             transform.position = Vector3.Lerp(startPos, endPos, (elapsedTime / time));
+            elapsedTime += Time.deltaTime;
+            yield return null;
+        }
+    }
+    
+    public IEnumerator SmoothLerpPlace (Vector3 startPos, Vector3 endPos ,float time)
+    {
+        float elapsedTime = 0;
+        Vector3 currentScale = this.transform.localScale;
+        Vector3 targetScale = new Vector3(0.4f, 0.4f, 0.4f);
+
+        Quaternion currentEuler = transform.localRotation;
+        
+        while (elapsedTime < time)
+        {
+            transform.position = Vector3.Lerp(startPos, endPos, (elapsedTime / time));
+            transform.localScale = Vector3.Lerp(currentScale, targetScale, (elapsedTime / time));
+            transform.localRotation = Quaternion.Lerp(currentEuler, Quaternion.identity, (elapsedTime / time));
             elapsedTime += Time.deltaTime;
             yield return null;
         }
