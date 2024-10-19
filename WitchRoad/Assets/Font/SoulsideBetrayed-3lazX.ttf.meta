@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 66d905e7a1736f64e92cd897a0d54522
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Soulside Betrayed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a7e64a00bec3228479a27585290ae55a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
