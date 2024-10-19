@@ -9,13 +9,15 @@ public class Card : MonoBehaviour
     private int siblingIndex;
     private Vector3 hoverPlacement;
     private Vector3 basePos;
-    private Vector3 velocity = Vector3.zero;
     public CardSO cardSO;
     public float score = 0;
     public bool played = false;
 
     public delegate void CardClickEvent(Card card, int player);
     public static event CardClickEvent cardClicked;
+    
+    public delegate void DiscardCards();
+    public static event DiscardCards discardCards;
 
     private void Awake()
     {
@@ -77,5 +79,7 @@ public class Card : MonoBehaviour
             elapsedTime += Time.deltaTime;
             yield return null;
         }
+        
+        discardCards?.Invoke();
     }
 }
