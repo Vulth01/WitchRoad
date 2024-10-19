@@ -16,7 +16,11 @@ C:/Users/damie/OneDrive/Desktop/WitchRoad/WitchRoad/WitchRoad
 Logs/AssetImportWorker1.log
 -srvPort
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 50317
+=======
+51887
+>>>>>>> Stashed changes
 Successfully changed project path to: D:/school work/2024 - sem 2/gamejam/WitchRoad/WitchRoad
 D:/school work/2024 - sem 2/gamejam/WitchRoad/WitchRoad
 =======
@@ -56,10 +60,15 @@ C:/Users/damie/OneDrive/Desktop/WitchRoad/WitchRoad/WitchRoad
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Player connection [9248] Host "[IP] 192.168.0.119 [Port] 0 [Flags] 2 [Guid] 1843173626 [EditorId] 1843173626 [Version] 1048832 [Id] WindowsEditor(7,SUPERCOOL) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+=======
+Player connection [30704] Host "[IP] 192.168.0.119 [Port] 0 [Flags] 2 [Guid] 369757757 [EditorId] 369757757 [Version] 1048832 [Id] WindowsEditor(7,SUPERCOOL) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+>>>>>>> Stashed changes
 
-Player connection [9248] Host "[IP] 192.168.0.119 [Port] 0 [Flags] 2 [Guid] 1843173626 [EditorId] 1843173626 [Version] 1048832 [Id] WindowsEditor(7,SUPERCOOL) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [30704] Host "[IP] 192.168.0.119 [Port] 0 [Flags] 2 [Guid] 369757757 [EditorId] 369757757 [Version] 1048832 [Id] WindowsEditor(7,SUPERCOOL) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
+<<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 8.10 ms, found 3 plugins.
 =======
 Player connection [7648] Host "[IP] 192.168.162.66 [Port] 0 [Flags] 2 [Guid] 2347809077 [EditorId] 2347809077 [Version] 1048832 [Id] WindowsEditor(7,Vulth) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
@@ -67,6 +76,9 @@ Player connection [7648] Host "[IP] 192.168.162.66 [Port] 0 [Flags] 2 [Guid] 234
 Player connection [7648] Host "[IP] 192.168.162.66 [Port] 0 [Flags] 2 [Guid] 2347809077 [EditorId] 2347809077 [Version] 1048832 [Id] WindowsEditor(7,Vulth) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 Refreshing native plugins compatible for Editor in 7.09 ms, found 3 plugins.
+>>>>>>> Stashed changes
+=======
+Refreshing native plugins compatible for Editor in 6.08 ms, found 3 plugins.
 >>>>>>> Stashed changes
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.5f1 (9674261d40ee)
@@ -84,14 +96,19 @@ Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/MonoBleedingEdge/etc'
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56772
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56428
+>>>>>>> Stashed changes
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.009477 seconds.
-- Loaded All Assemblies, in  0.528 seconds
+Registered in 0.008456 seconds.
+- Loaded All Assemblies, in  0.385 seconds
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
+<<<<<<< Updated upstream
 - Finished resetting the current domain, in  0.343 seconds
 Domain Reload Profiling: 869ms
 	BeginReloadAssembly (183ms)
@@ -108,32 +125,46 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling: 573ms
 	BeginReloadAssembly (75ms)
 >>>>>>> Stashed changes
+=======
+- Finished resetting the current domain, in  0.275 seconds
+Domain Reload Profiling: 659ms
+	BeginReloadAssembly (106ms)
+>>>>>>> Stashed changes
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	RebuildCommonClasses (58ms)
 	RebuildNativeTypeToScriptingClass (15ms)
 	initialDomainReloadingComplete (88ms)
 	LoadAllAssembliesAndSetupDomain (181ms)
 		LoadAssemblies (179ms)
+=======
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (64ms)
+	LoadAllAssembliesAndSetupDomain (163ms)
+		LoadAssemblies (103ms)
+>>>>>>> Stashed changes
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (171ms)
-			TypeCache.Refresh (170ms)
-				TypeCache.ScanAssembly (153ms)
+		AnalyzeDomain (155ms)
+			TypeCache.Refresh (154ms)
+				TypeCache.ScanAssembly (141ms)
 			ScanForSourceGeneratedMonoScriptInfo (0ms)
 			ResolveRequiredComponents (1ms)
-	FinalizeReload (344ms)
+	FinalizeReload (276ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (273ms)
+		SetupLoadedEditorAssemblies (214ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (13ms)
-			SetLoadedEditorAssemblies (9ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (8ms)
 			RefreshPlugins (0ms)
 			BeforeProcessingInitializeOnLoad (2ms)
+<<<<<<< Updated upstream
 			ProcessInitializeOnLoadAttributes (174ms)
 			ProcessInitializeOnLoadMethodAttributes (74ms)
 =======
@@ -160,6 +191,10 @@ Domain Reload Profiling: 573ms
 			ProcessInitializeOnLoadAttributes (134ms)
 			ProcessInitializeOnLoadMethodAttributes (47ms)
 >>>>>>> Stashed changes
+=======
+			ProcessInitializeOnLoadAttributes (145ms)
+			ProcessInitializeOnLoadMethodAttributes (48ms)
+>>>>>>> Stashed changes
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -170,6 +205,7 @@ Begin MonoManager ReloadAssembly
 <<<<<<< Updated upstream
 Symbol file LoadedFromMemory doesn't match image D:\school work\2024 - sem 2\gamejam\WitchRoad\WitchRoad\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image D:\school work\2024 - sem 2\gamejam\WitchRoad\WitchRoad\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+<<<<<<< Updated upstream
 - Loaded All Assemblies, in  1.195 seconds
 Refreshing native plugins compatible for Editor in 1.93 ms, found 3 plugins.
 =======
@@ -178,6 +214,10 @@ Symbol file LoadedFromMemory doesn't match image C:\Users\damie\OneDrive\Desktop
 - Loaded All Assemblies, in  0.606 seconds
 Refreshing native plugins compatible for Editor in 4.06 ms, found 3 plugins.
 >>>>>>> Stashed changes
+=======
+- Loaded All Assemblies, in  0.840 seconds
+Refreshing native plugins compatible for Editor in 2.46 ms, found 3 plugins.
+>>>>>>> Stashed changes
 Native extension for WindowsStandalone target not found
 Package Manager log level set to [2]
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
@@ -185,115 +225,54 @@ Package Manager log level set to [2]
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - Finished resetting the current domain, in  0.780 seconds
 Domain Reload Profiling: 1973ms
 	BeginReloadAssembly (432ms)
+=======
+- Finished resetting the current domain, in  0.907 seconds
+Domain Reload Profiling: 1746ms
+	BeginReloadAssembly (147ms)
+>>>>>>> Stashed changes
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (7ms)
+		DisableScriptedObjects (6ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (29ms)
-	RebuildCommonClasses (45ms)
-	RebuildNativeTypeToScriptingClass (11ms)
-	initialDomainReloadingComplete (53ms)
-	LoadAllAssembliesAndSetupDomain (652ms)
-		LoadAssemblies (364ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (601ms)
+		LoadAssemblies (270ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (365ms)
-			TypeCache.Refresh (342ms)
-				TypeCache.ScanAssembly (326ms)
-			ScanForSourceGeneratedMonoScriptInfo (19ms)
+		AnalyzeDomain (403ms)
+			TypeCache.Refresh (372ms)
+				TypeCache.ScanAssembly (354ms)
+			ScanForSourceGeneratedMonoScriptInfo (26ms)
 			ResolveRequiredComponents (5ms)
-	FinalizeReload (780ms)
+	FinalizeReload (908ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (599ms)
+		SetupLoadedEditorAssemblies (688ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (7ms)
-			SetLoadedEditorAssemblies (6ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (5ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (72ms)
-			ProcessInitializeOnLoadAttributes (481ms)
-			ProcessInitializeOnLoadMethodAttributes (23ms)
+			BeforeProcessingInitializeOnLoad (79ms)
+			ProcessInitializeOnLoadAttributes (558ms)
+			ProcessInitializeOnLoadMethodAttributes (28ms)
 			AfterProcessingInitializeOnLoad (9ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (7ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
-Refreshing native plugins compatible for Editor in 2.33 ms, found 3 plugins.
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 3.33 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3513 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 38 unused Assets / (57.0 KB). Loaded Objects now: 3979.
-Memory consumption went from 129.3 MB to 129.2 MB.
-Total: 3.913300 ms (FindLiveObjects: 0.316900 ms CreateObjectMapping: 0.112200 ms MarkObjects: 3.355400 ms  DeleteObjects: 0.127500 ms)
+Unloading 38 unused Assets / (56.9 KB). Loaded Objects now: 3979.
+Memory consumption went from 129.3 MB to 129.3 MB.
+Total: 5.385800 ms (FindLiveObjects: 0.652300 ms CreateObjectMapping: 0.263800 ms MarkObjects: 4.306100 ms  DeleteObjects: 0.160800 ms)
 
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\school work\2024 - sem 2\gamejam\WitchRoad\WitchRoad\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\school work\2024 - sem 2\gamejam\WitchRoad\WitchRoad\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-- Loaded All Assemblies, in  0.767 seconds
-Refreshing native plugins compatible for Editor in 2.81 ms, found 3 plugins.
-Native extension for WindowsStandalone target not found
-[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.066 seconds
-Domain Reload Profiling: 1832ms
-	BeginReloadAssembly (158ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (5ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (41ms)
-	RebuildCommonClasses (35ms)
-	RebuildNativeTypeToScriptingClass (14ms)
-	initialDomainReloadingComplete (36ms)
-	LoadAllAssembliesAndSetupDomain (523ms)
-		LoadAssemblies (272ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (324ms)
-			TypeCache.Refresh (314ms)
-				TypeCache.ScanAssembly (300ms)
-			ScanForSourceGeneratedMonoScriptInfo (0ms)
-			ResolveRequiredComponents (10ms)
-	FinalizeReload (1066ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (593ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (8ms)
-			SetLoadedEditorAssemblies (6ms)
-			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (77ms)
-			ProcessInitializeOnLoadAttributes (466ms)
-			ProcessInitializeOnLoadMethodAttributes (25ms)
-			AfterProcessingInitializeOnLoad (11ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (7ms)
-Refreshing native plugins compatible for Editor in 2.48 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3493 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 23 unused Assets / (31.1 KB). Loaded Objects now: 3982.
-Memory consumption went from 125.2 MB to 125.2 MB.
-Total: 4.134600 ms (FindLiveObjects: 0.451700 ms CreateObjectMapping: 0.112800 ms MarkObjects: 3.476900 ms  DeleteObjects: 0.091000 ms)
-
-Prepare: number of updated asset objects reloaded= 0
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
@@ -309,11 +288,12 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 356153.198608 seconds.
-  path: Assets/Font/Witch Party SDF.asset
-  artifactKey: Guid(b8dc86564a4a5b3499dfaa2e35e487ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Font/Witch Party SDF.asset using Guid(b8dc86564a4a5b3499dfaa2e35e487ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e17609ed77f3abaf4e2bd9926bc4f19') in 0.142001 seconds
+  Time since last request: 358547.244503 seconds.
+  path: Assets/Prefabs/Plane.prefab
+  artifactKey: Guid(07e8893c90b25154ba153ab41342cf36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Plane.prefab using Guid(07e8893c90b25154ba153ab41342cf36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd05f34b3ca28f239586732c10775b81') in 0.170463 seconds
 Number of updated asset objects reloaded before import = 0
+<<<<<<< Updated upstream
 Number of asset objects unloaded after import = 6
 ========================================================================
 Received Prepare
@@ -2860,4 +2840,12 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+>>>>>>> Stashed changes
+=======
+Number of asset objects unloaded after import = 8
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
 >>>>>>> Stashed changes

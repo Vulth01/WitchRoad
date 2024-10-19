@@ -8,7 +8,7 @@ public class Menu : MonoBehaviour
 {
     public void Play()
     {
-        SceneManager.LoadScene("Train Scene"); // add to build order
+        SceneManager.LoadScene("TrainScene");
     }
 
     public void Quit()
