@@ -404,8 +404,13 @@
       "DisplayName": "Writing UnityEngine.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
+<<<<<<< HEAD
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -416,7 +421,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 232,
+=======
+      "PayloadOffset": 255,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 44703,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -429,9 +438,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp2",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 45029,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 45052,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp2"
@@ -2273,7 +2288,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 45177,
+=======
+      "PayloadOffset": 45223,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 7355,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -2474,9 +2493,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEngine.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 52637,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 52683,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -2487,7 +2512,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp",
       "DisplayName": "Writing UnityEngine.UI.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 52754,
+=======
+      "PayloadOffset": 52823,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 39216,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -2500,9 +2529,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp2",
       "DisplayName": "Writing UnityEngine.UI.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 92056,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 92125,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp2"
@@ -2941,7 +2976,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 92196,
+=======
+      "PayloadOffset": 92288,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 7893,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -3154,9 +3193,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 100202,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 100294,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt"
@@ -3167,7 +3212,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 100327,
+=======
+      "PayloadOffset": 100442,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 50812,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -3180,9 +3229,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp2",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 151233,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 151348,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp2"
@@ -3640,7 +3695,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 151381,
+=======
+      "PayloadOffset": 151519,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 7521,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -3845,9 +3904,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 159007,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 159145,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt"
@@ -3858,7 +3923,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp",
       "DisplayName": "Writing UnityEditor.UI.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 159124,
+=======
+      "PayloadOffset": 159285,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 36310,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -3871,9 +3940,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp2",
       "DisplayName": "Writing UnityEditor.UI.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 195520,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 195681,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp2"
@@ -4221,7 +4296,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 195660,
+=======
+      "PayloadOffset": 195844,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8219,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -4442,9 +4521,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 203999,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 204183,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt"
@@ -4455,7 +4540,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 204131,
+=======
+      "PayloadOffset": 204338,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 33729,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -4468,9 +4557,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp2",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 237961,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 238168,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp2"
@@ -4769,7 +4864,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 238116,
+=======
+      "PayloadOffset": 238346,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -4992,9 +5091,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.InputSystem.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 246519,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 246749,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.UnityAdditionalFile.txt"
@@ -5005,7 +5110,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.rsp",
       "DisplayName": "Writing Unity.InputSystem.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 246639,
+=======
+      "PayloadOffset": 246892,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 69494,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -5018,9 +5127,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.rsp2",
       "DisplayName": "Writing Unity.InputSystem.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 316222,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 316475,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.rsp2"
@@ -5658,7 +5773,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.InputSystem.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 316365,
+=======
+      "PayloadOffset": 316641,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8045,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -5875,9 +5994,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 324542,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 324818,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt"
@@ -5888,7 +6013,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 324686,
+=======
+      "PayloadOffset": 324985,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 36502,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -5901,9 +6030,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 361301,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 361600,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2"
@@ -6213,7 +6348,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 361468,
+=======
+      "PayloadOffset": 361790,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -6436,9 +6575,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 369877,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 370199,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt"
@@ -6449,7 +6594,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 370003,
+=======
+      "PayloadOffset": 370348,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 65173,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -6462,9 +6611,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp2",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 435271,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 435616,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp2"
@@ -7040,7 +7195,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 435420,
+=======
+      "PayloadOffset": 435788,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 7844,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -7253,9 +7412,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Postprocessing.Runtime.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Postprocessing.Runtime.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 443383,
-      "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+      "PayloadOffset": 443751,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Postprocessing.Runtime.UnityAdditionalFile.txt"
@@ -7266,7 +7425,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Postprocessing.Runtime.rsp",
       "DisplayName": "Writing Unity.Postprocessing.Runtime.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 443514,
+      "PayloadOffset": 443905,
       "PayloadLength": 38053,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -7279,9 +7438,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Postprocessing.Runtime.rsp2",
       "DisplayName": "Writing Unity.Postprocessing.Runtime.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 481667,
-      "PayloadLength": 45,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+      "PayloadOffset": 482058,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Postprocessing.Runtime.rsp2"
@@ -7606,7 +7765,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Postprocessing.Runtime.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Postprocessing.Runtime.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 481821,
+      "PayloadOffset": 482235,
       "PayloadLength": 8045,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -7823,9 +7982,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Rider.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 489975,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 490389,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt"
@@ -7836,7 +8001,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp",
       "DisplayName": "Writing Unity.Rider.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 490096,
+=======
+      "PayloadOffset": 490533,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 35926,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -7849,9 +8018,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp2",
       "DisplayName": "Writing Unity.Rider.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 526112,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 526549,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp2"
@@ -8158,7 +8333,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Rider.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 526256,
+=======
+      "PayloadOffset": 526716,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 7757,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -8369,9 +8548,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Settings.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 534125,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 534585,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt"
@@ -8382,7 +8567,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp",
       "DisplayName": "Writing Unity.Settings.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 534249,
+=======
+      "PayloadOffset": 534732,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 34445,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -8395,9 +8584,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp2",
       "DisplayName": "Writing Unity.Settings.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 568787,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 569270,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp2"
@@ -8687,7 +8882,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Settings.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 568934,
+=======
+      "PayloadOffset": 569440,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -8910,9 +9109,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 577371,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 577877,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt"
@@ -8923,7 +9128,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 577525,
+=======
+      "PayloadOffset": 578054,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 35206,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -8936,9 +9145,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 612854,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 613383,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2"
@@ -9230,7 +9445,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 613031,
+=======
+      "PayloadOffset": 613583,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -9453,9 +9672,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 621478,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 622030,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt"
@@ -9466,7 +9691,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 621642,
+=======
+      "PayloadOffset": 622217,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 33979,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -9479,9 +9708,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 655754,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 656329,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2"
@@ -9762,7 +9997,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 655941,
+=======
+      "PayloadOffset": 656539,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -9985,9 +10224,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 664344,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 664942,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -9998,7 +10243,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 664464,
+=======
+      "PayloadOffset": 665085,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 37304,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -10011,9 +10260,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 701857,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 702478,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp2"
@@ -10340,7 +10595,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 702000,
+=======
+      "PayloadOffset": 702644,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8045,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -10557,9 +10816,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 710150,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 710794,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -10570,7 +10835,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp",
       "DisplayName": "Writing Unity.Timeline.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 710267,
+=======
+      "PayloadOffset": 710934,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 38388,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -10583,9 +10852,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp2",
       "DisplayName": "Writing Unity.Timeline.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 748741,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 749408,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp2"
@@ -10926,7 +11201,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 748881,
+=======
+      "PayloadOffset": 749571,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8045,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -11143,9 +11422,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VSCode.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 757036,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 757726,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt"
@@ -11156,7 +11441,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp",
       "DisplayName": "Writing Unity.VSCode.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 757158,
+=======
+      "PayloadOffset": 757871,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 34094,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -11169,9 +11458,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp2",
       "DisplayName": "Writing Unity.VSCode.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 791343,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 792056,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp2"
@@ -11456,7 +11751,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VSCode.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 791488,
+=======
+      "PayloadOffset": 792224,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -11679,9 +11978,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualStudio.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 799899,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 800635,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt"
@@ -11692,7 +11997,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp",
       "DisplayName": "Writing Unity.VisualStudio.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 800027,
+=======
+      "PayloadOffset": 800786,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 35802,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -11705,9 +12014,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualStudio.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 835926,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 836685,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp2"
@@ -12015,7 +12330,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualStudio.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 836077,
+=======
+      "PayloadOffset": 836859,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 7757,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -12226,9 +12545,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.CollabProxy.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 843949,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 844731,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt"
@@ -12239,7 +12564,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp",
       "DisplayName": "Writing Unity.CollabProxy.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 844076,
+=======
+      "PayloadOffset": 844881,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 33524,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -12252,9 +12581,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp2",
       "DisplayName": "Writing Unity.CollabProxy.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 877696,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 878501,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp2"
@@ -12552,7 +12887,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.CollabProxy.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 877846,
+=======
+      "PayloadOffset": 878674,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8380,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -12777,9 +13116,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ForUI.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.InputSystem.ForUI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 886340,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 887168,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ForUI.UnityAdditionalFile.txt"
@@ -12790,7 +13135,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ForUI.rsp",
       "DisplayName": "Writing Unity.InputSystem.ForUI.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 886466,
+=======
+      "PayloadOffset": 887317,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 32358,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -12803,9 +13152,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ForUI.rsp2",
       "DisplayName": "Writing Unity.InputSystem.ForUI.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 918919,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 919770,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ForUI.rsp2"
@@ -13095,7 +13450,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ForUI.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.InputSystem.ForUI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 919068,
+=======
+      "PayloadOffset": 919942,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8124,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -13314,9 +13673,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.TestFramework.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.InputSystem.TestFramework.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 927314,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 928188,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.TestFramework.UnityAdditionalFile.txt"
@@ -13327,7 +13692,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.TestFramework.rsp",
       "DisplayName": "Writing Unity.InputSystem.TestFramework.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 927448,
+=======
+      "PayloadOffset": 928345,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 31445,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -13340,9 +13709,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.TestFramework.rsp2",
       "DisplayName": "Writing Unity.InputSystem.TestFramework.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 958996,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 959893,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.TestFramework.rsp2"
@@ -13610,7 +13985,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.TestFramework.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.InputSystem.TestFramework.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 959153,
+=======
+      "PayloadOffset": 960073,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 7580,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -13817,9 +14196,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Postprocessing.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Postprocessing.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 966851,
-      "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+      "PayloadOffset": 967771,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Postprocessing.Editor.UnityAdditionalFile.txt"
@@ -13830,7 +14209,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Postprocessing.Editor.rsp",
       "DisplayName": "Writing Unity.Postprocessing.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 966981,
+      "PayloadOffset": 967924,
       "PayloadLength": 37187,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -13843,9 +14222,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Postprocessing.Editor.rsp2",
       "DisplayName": "Writing Unity.Postprocessing.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1004267,
-      "PayloadLength": 45,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+      "PayloadOffset": 1005210,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Postprocessing.Editor.rsp2"
@@ -14177,7 +14556,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Postprocessing.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Postprocessing.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1004420,
+      "PayloadOffset": 1005386,
       "PayloadLength": 8385,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -14402,9 +14781,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1012931,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 1013897,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt"
@@ -14415,7 +14800,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1013069,
+=======
+      "PayloadOffset": 1014058,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 37772,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -14428,9 +14817,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1050948,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 1051937,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp2"
@@ -14808,7 +15203,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1051109,
+=======
+      "PayloadOffset": 1052121,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8076,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -15025,9 +15424,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1059300,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 1060312,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt"
@@ -15038,7 +15443,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1059427,
+=======
+      "PayloadOffset": 1060462,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 37888,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -15051,9 +15460,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1097411,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 1098446,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp2"
@@ -15398,7 +15813,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1097561,
+=======
+      "PayloadOffset": 1098619,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8374,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -15623,9 +16042,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1106047,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 1107105,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt"
@@ -15636,7 +16061,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp",
       "DisplayName": "Writing Unity.Timeline.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1106171,
+=======
+      "PayloadOffset": 1107252,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 57728,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -15649,9 +16078,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp2",
       "DisplayName": "Writing Unity.Timeline.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1163992,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 1165073,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp2"
@@ -16220,7 +16655,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1164139,
+=======
+      "PayloadOffset": 1165243,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8371,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -16445,9 +16884,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1172627,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 1173731,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -16458,7 +16903,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1172756,
+=======
+      "PayloadOffset": 1173883,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 86147,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -16471,9 +16920,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1259001,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 1260128,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp2"
@@ -17170,7 +17625,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1259153,
+=======
+      "PayloadOffset": 1260303,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8124,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -17389,9 +17848,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1267401,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 1268551,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt"
@@ -17402,7 +17867,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1267537,
+=======
+      "PayloadOffset": 1268710,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 90393,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -17415,9 +17884,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1358035,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 1359208,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp2"
@@ -18184,7 +18659,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1358194,
+=======
+      "PayloadOffset": 1359390,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8383,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -18409,9 +18888,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1366694,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 1367890,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -18422,7 +18907,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1366823,
+=======
+      "PayloadOffset": 1368042,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 81676,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -18435,9 +18924,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1448597,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 1449816,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp2"
@@ -19111,7 +19606,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1448749,
+=======
+      "PayloadOffset": 1449991,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8212,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -19332,9 +19831,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1457085,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 1458327,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt"
@@ -19345,7 +19850,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1457221,
+=======
+      "PayloadOffset": 1458486,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 54000,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -19358,9 +19867,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1511326,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 1512591,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp2"
@@ -19849,7 +20364,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1511485,
+=======
+      "PayloadOffset": 1512773,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8645,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -20080,9 +20599,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1520248,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 1521536,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -20093,7 +20618,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1520378,
+=======
+      "PayloadOffset": 1521689,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 35524,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -20106,9 +20635,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1556001,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 1557312,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp2"
@@ -20411,7 +20946,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1556154,
+=======
+      "PayloadOffset": 1557488,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8221,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -20632,9 +21171,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1564511,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 1565845,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt"
@@ -20645,7 +21190,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1564659,
+=======
+      "PayloadOffset": 1566016,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 34870,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -20658,9 +21207,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1599646,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 1601003,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2"
@@ -20992,7 +21547,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1599817,
+=======
+      "PayloadOffset": 1601197,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8750,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -21225,9 +21784,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1608692,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 1610072,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt"
@@ -21238,7 +21803,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1608829,
+=======
+      "PayloadOffset": 1610232,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 41827,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -21251,9 +21820,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1650762,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 1652165,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp2"
@@ -21608,7 +22183,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1650922,
+=======
+      "PayloadOffset": 1652348,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8750,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -21841,9 +22420,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1659798,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 1661224,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt"
@@ -21854,7 +22439,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1659936,
+=======
+      "PayloadOffset": 1661385,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 33973,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -21867,9 +22456,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1694016,
       "PayloadLength": 45,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\witchGame\\WitchRo",
+=======
+      "PayloadOffset": 1695465,
+      "PayloadLength": 68,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\school work\\2024 ",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp2"
@@ -22177,7 +22772,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1694177,
+=======
+      "PayloadOffset": 1695649,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 8846,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -22412,9 +23011,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1703129,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\witchGame\\WitchRoad\\WitchRo",
+=======
+      "PayloadOffset": 1704601,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "D:\\school work\\2024 - sem 2\\ga",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -22425,7 +23030,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp",
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1703247,
+=======
+      "PayloadOffset": 1704742,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 35678,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -22438,7 +23047,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1739012,
+=======
+      "PayloadOffset": 1740507,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -23007,7 +23620,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1739108,
+=======
+      "PayloadOffset": 1740603,
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "PayloadLength": 9709,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -24249,7 +24866,11 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
+<<<<<<< HEAD
       "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"D:/witchGame/WitchRoad/WitchRoad/Library/ScriptAssemblies/Assembly-CSharp.dll\" -a=\"D:/witchGame/WitchRoad/WitchRoad/Library/ScriptAssemblies/Unity.InputSystem.dll\" -a=\"D:/witchGame/WitchRoad/WitchRoad/Library/ScriptAssemblies/Unity.InputSystem.ForUI.dll\" -a=\"D:/witchGame/WitchRoad/WitchRoad/Library/ScriptAssemblies/Unity.InputSystem.TestFramework.dll\" -a=\"D:/witchGame/WitchRoad/WitchRoad/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll\" -a=\"D:/witchGame/WitchRoad/WitchRoad/Library/ScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"D:/witchGame/WitchRoad/WitchRoad/Library/ScriptAssemblies/Unity.Timeline.dll\" -a=\"D:/witchGame/WitchRoad/WitchRoad/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll\" -a=\"D:/witchGame/WitchRoad/WitchRoad/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll\" -a=\"D:/witchGame/WitchRoad/WitchRoad/Library/ScriptAssemblies/Unity.VisualScripting.State.dll\" -a=\"D:/witchGame/WitchRoad/WitchRoad/Library/ScriptAssemblies/UnityEngine.TestRunner.dll\" -a=\"D:/witchGame/WitchRoad/WitchRoad/Library/ScriptAssemblies/UnityEngine.UI.dll\" -a=\"D:/witchGame/WitchRoad/WitchRoad/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\" -a=\"D:/witchGame/WitchRoad/WitchRoad/Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator/ReportGeneratorMerged.dll\" -a=\"D:/witchGame/WitchRoad/WitchRoad/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/Extensions/2.0.0\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/ref/2.1.0\" -s=\"D:/witchGame/WitchRoad/WitchRoad/Library/ScriptAssemblies\" -s=\"D:/witchGame/WitchRoad/WitchRoad/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom\" -s=\"D:/witchGame/WitchRoad/WitchRoad/Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator\" -s=\"D:/witchGame/WitchRoad/WitchRoad/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+=======
+      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"D:/school work/2024 - sem 2/gamejam/WitchRoad/WitchRoad/Library/ScriptAssemblies/Assembly-CSharp.dll\" -a=\"D:/school work/2024 - sem 2/gamejam/WitchRoad/WitchRoad/Library/ScriptAssemblies/Unity.InputSystem.dll\" -a=\"D:/school work/2024 - sem 2/gamejam/WitchRoad/WitchRoad/Library/ScriptAssemblies/Unity.InputSystem.ForUI.dll\" -a=\"D:/school work/2024 - sem 2/gamejam/WitchRoad/WitchRoad/Library/ScriptAssemblies/Unity.InputSystem.TestFramework.dll\" -a=\"D:/school work/2024 - sem 2/gamejam/WitchRoad/WitchRoad/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll\" -a=\"D:/school work/2024 - sem 2/gamejam/WitchRoad/WitchRoad/Library/ScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"D:/school work/2024 - sem 2/gamejam/WitchRoad/WitchRoad/Library/ScriptAssemblies/Unity.Timeline.dll\" -a=\"D:/school work/2024 - sem 2/gamejam/WitchRoad/WitchRoad/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll\" -a=\"D:/school work/2024 - sem 2/gamejam/WitchRoad/WitchRoad/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll\" -a=\"D:/school work/2024 - sem 2/gamejam/WitchRoad/WitchRoad/Library/ScriptAssemblies/Unity.VisualScripting.State.dll\" -a=\"D:/school work/2024 - sem 2/gamejam/WitchRoad/WitchRoad/Library/ScriptAssemblies/UnityEngine.TestRunner.dll\" -a=\"D:/school work/2024 - sem 2/gamejam/WitchRoad/WitchRoad/Library/ScriptAssemblies/UnityEngine.UI.dll\" -a=\"D:/school work/2024 - sem 2/gamejam/WitchRoad/WitchRoad/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\" -a=\"D:/school work/2024 - sem 2/gamejam/WitchRoad/WitchRoad/Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator/ReportGeneratorMerged.dll\" -a=\"D:/school work/2024 - sem 2/gamejam/WitchRoad/WitchRoad/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed/UnityEngine\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/Extensions/2.0.0\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/NetStandard/ref/2.1.0\" -s=\"D:/school work/2024 - sem 2/gamejam/WitchRoad/WitchRoad/Library/ScriptAssemblies\" -s=\"D:/school work/2024 - sem 2/gamejam/WitchRoad/WitchRoad/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom\" -s=\"D:/school work/2024 - sem 2/gamejam/WitchRoad/WitchRoad/Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator\" -s=\"D:/school work/2024 - sem 2/gamejam/WitchRoad/WitchRoad/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -24558,6 +25179,10 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aE.dag.json",
+<<<<<<< HEAD
   "PayloadsFile": "D:/witchGame/WitchRoad/WitchRoad/Library/Bee/1900b0aE.dag.payloads",
+=======
+  "PayloadsFile": "D:/school work/2024 - sem 2/gamejam/WitchRoad/WitchRoad/Library/Bee/1900b0aE.dag.payloads",
+>>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
   "RelativePathToRoot": "../.."
 }
