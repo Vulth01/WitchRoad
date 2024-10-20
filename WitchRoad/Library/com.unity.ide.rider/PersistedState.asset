@@ -12,9 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc3a27147f944790916176e2172ad506, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastWriteTicks: 0
-<<<<<<< HEAD
-  manifestJsonLastWriteTicks: -8584722497407808096
-=======
-  manifestJsonLastWriteTicks: -8584722372536354555
->>>>>>> 55c9a7a759f7efe6afd82ab876be91e9f81f3b4e
+  lastWriteTicks: -8584721909401202306
+  manifestJsonLastWriteTicks: -8584721930827334744

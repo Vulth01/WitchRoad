@@ -362,6 +362,7 @@
 "Assets/Scripts/CardScripts/CardGameManager.cs"
 "Assets/Scripts/CardScripts/CardSO.cs"
 "Assets/Scripts/CardScripts/PlayerCards.cs"
+"Assets/Scripts/TrainScripts/CameraController.cs"
 "Assets/Scripts/TrainScripts/CarriageSpawnerScript.cs"
 "Assets/Scripts/TrainScripts/InteractionManager.cs"
 "Assets/Scripts/TrainScripts/PlayerMovement.cs"

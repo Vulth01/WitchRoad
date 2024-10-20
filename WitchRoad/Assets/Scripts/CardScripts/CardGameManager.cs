@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class CardGameManager : MonoBehaviour
 {
@@ -13,6 +14,7 @@ public class CardGameManager : MonoBehaviour
     [SerializeField] private Transform playedCards;
     [SerializeField] private GameObject hand;
     [SerializeField] private GameObject winOrLoseCanvas;
+    [SerializeField] private Button pullout;
     private List<Card> playerCards = new List<Card>();
     private List<Card> enemyCards = new List<Card>();
     private List<Quaternion> enemyCardsRotations = new List<Quaternion>();
@@ -27,6 +29,7 @@ public class CardGameManager : MonoBehaviour
     private void Start()
     {
         cardCap = playerPlacements.Length;
+        pullout.onClick.AddListener(GameEnd);
     }
 
     private void PlaceCard(Card card)

@@ -13,6 +13,7 @@ public class Card : MonoBehaviour
     public float score = 0;
     public bool played = false;
     public int id = -1;
+    private PlayerCards playerCards;
 
     public delegate void CardClickEvent(Card card);
     public static event CardClickEvent cardClicked;
@@ -28,12 +29,13 @@ public class Card : MonoBehaviour
 
     private void Start()
     {
+        playerCards = transform.parent.parent.GetComponent<PlayerCards>();
         score = cardSO.score;
     }
 
     public void OnHoverEnter()
     {
-        if (played || id is not 1) return;
+        if (played || id is not 1 || playerCards.state is CardState.Busy) return;
         siblingIndex = transform.parent.GetSiblingIndex();
         transform.parent.SetAsLastSibling();
         StartCoroutine(SmoothLerp(transform.position, hoverPlacement, 0.3f));
@@ -41,14 +43,14 @@ public class Card : MonoBehaviour
 
     public void OnHoverExit()
     {
-        if (played || id is not 1) return;
+        if (played || id is not 1 || playerCards.state is CardState.Busy) return;
         transform.parent.SetSiblingIndex(siblingIndex);
         StartCoroutine(SmoothLerp(transform.position, basePos, 0.3f));
     }
 
     public void ClickCard()
     {
-        if (played || id is not 1) return;
+        if (played || id is not 1 || playerCards.state is CardState.Busy) return;
         cardClicked?.Invoke(this);
     }
     

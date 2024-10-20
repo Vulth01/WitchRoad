@@ -7,6 +7,11 @@ using UnityEngine;
 using UnityEngine.UI;
 using Random = UnityEngine.Random;
 
+public enum CardState
+{
+    Playable,
+    Busy
+}
 public class PlayerCards : MonoBehaviour
 {
     [SerializeField] private CardSO[] cardSOs;
@@ -18,6 +23,8 @@ public class PlayerCards : MonoBehaviour
 
     public delegate void EnemyTurnEvent(Card card);
     public static event EnemyTurnEvent enemyTurnEvent;
+    
+    public CardState state = CardState.Playable;
     
     private void Start()
     {
@@ -96,15 +103,20 @@ public class PlayerCards : MonoBehaviour
         currentHand.Clear();
 
         DrawCards();
+        state = CardState.Playable;
     }
+    
+    private void SetState(Card card) => state = CardState.Busy;
 
     private void OnEnable()
     {
+        Card.cardClicked += SetState;
         Card.discardCards += DiscardCards;
     }
 
     private void OnDisable()
     {
+        Card.cardClicked -= SetState;
        Card.discardCards -= DiscardCards;
     }
 }
