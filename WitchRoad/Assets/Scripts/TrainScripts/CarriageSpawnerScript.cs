@@ -15,24 +15,16 @@ public class CarriageSpawnerScript : MonoBehaviour
     [SerializeField] private GameObject prefab1;
     [SerializeField] private GameObject prefab2;
 
-    private void FixedUpdate()
-    {
-        doTimer();      // For testing carriage spawning
-    }
-
-    void doTimer()
+    private void Awake()
     {
 
-        sTimer = sTimer - (1 * Time.deltaTime);
-        if (sTimer <= 0)
-        {
-            Debug.Log(sTimer);
-            DoSpawn();
-            sTimer = spawnTimer;
-        }
+        InteractionManager interactionManager = FindObjectOfType<InteractionManager>();
+        if (interactionManager != null) interactionManager.OnNextRoom += OnNextRoom;
     }
-
-
+    void OnNextRoom()
+    {
+        DoSpawn();
+    }
     private void DoSpawn()
     {
         instanceCount++;
