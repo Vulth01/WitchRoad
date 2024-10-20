@@ -12,6 +12,7 @@ public class Card : MonoBehaviour
     public CardSO cardSO;
     public float score = 0;
     public bool played = false;
+    public int id = -1;
 
     public delegate void CardClickEvent(Card card);
     public static event CardClickEvent cardClicked;
@@ -32,7 +33,7 @@ public class Card : MonoBehaviour
 
     public void OnHoverEnter()
     {
-        if (played) return;
+        if (played || id is not 1) return;
         siblingIndex = transform.parent.GetSiblingIndex();
         transform.parent.SetAsLastSibling();
         StartCoroutine(SmoothLerp(transform.position, hoverPlacement, 0.3f));
@@ -40,14 +41,14 @@ public class Card : MonoBehaviour
 
     public void OnHoverExit()
     {
-        if (played) return;
+        if (played || id is not 1) return;
         transform.parent.SetSiblingIndex(siblingIndex);
         StartCoroutine(SmoothLerp(transform.position, basePos, 0.3f));
     }
 
     public void ClickCard()
     {
-        if (played) return;
+        if (played || id is not 1) return;
         cardClicked?.Invoke(this);
     }
     

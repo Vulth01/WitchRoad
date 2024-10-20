@@ -30,6 +30,7 @@ public class PlayerCards : MonoBehaviour
         {
             GameObject newCard = Instantiate(cardTemplate, transform.GetChild(i));
             currentHand.Add(GetRandomCard(newCard));
+            newCard.GetComponent<Card>().id = 1;
             if (i is 2) middleCardPos = newCard.transform.position;
             
             currentHandBasePos.Add(newCard.transform.parent.position);

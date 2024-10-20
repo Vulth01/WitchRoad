@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using TMPro;
 using UnityEngine;
 
@@ -14,6 +15,7 @@ public class CardGameManager : MonoBehaviour
     [SerializeField] private GameObject winOrLoseCanvas;
     private List<Card> playerCards = new List<Card>();
     private List<Card> enemyCards = new List<Card>();
+    private List<Quaternion> enemyCardsRotations = new List<Quaternion>();
     private int playerCardCounter = 0;
     private int enemyCardCounter = 0;
 
@@ -45,6 +47,7 @@ public class CardGameManager : MonoBehaviour
     {
         StartCoroutine(card.SmoothLerpPlace(card.transform.position, enemyPlacements[enemyCardCounter].position, 1f, -1));
         enemyCards.Add(card);
+        enemyCardsRotations.Add(card.transform.rotation);
         enemyCardCounter++;
         
         if (playerCardCounter >= cardCap) GameEnd();
@@ -53,17 +56,52 @@ public class CardGameManager : MonoBehaviour
     private void GameEnd()
     {
         hand.SetActive(false);
-
-        float playerScore = CalculateScore(1);
-        float enemyScore = CalculateScore(-1);
-
-        StartCoroutine(GameEndCoroutine(playerScore, enemyScore));
+        StartCoroutine(GameEndCoroutine());
     }
 
-    private IEnumerator GameEndCoroutine(float playerScore, float enemyScore)
+    private IEnumerator GameEndCoroutine()
     {
-        winOrLoseCanvas.transform.GetChild(1).GetComponent<TextMeshProUGUI>().text =
-            playerScore > enemyScore ? "Victory" : "Defeat";
+        float time = 1f;
+        int counter = -1;
+        foreach (Card enemyCard in enemyCards)
+        {
+            float elapsedTime = 0;
+            counter++;
+            if (enemyCard.cardSO == playerCards[counter].cardSO)
+            {
+                enemyCard.score = 0;
+                playerCards[counter].score = 0;
+            }
+
+            enemyCard.transform.GetChild(1).GetChild(0).GetComponent<TextMeshProUGUI>().text = enemyCard.score + "";
+            playerCards[counter].transform.GetChild(1).GetChild(0).GetComponent<TextMeshProUGUI>().text =
+                playerCards[counter].score + "";
+                
+            enemyCard.transform.GetChild(1).gameObject.SetActive(true);
+            playerCards[counter].transform.GetChild(1).gameObject.SetActive(true);
+            
+            enemyCard.transform.GetChild(2).gameObject.SetActive(false);
+            
+            while (elapsedTime < time)
+            {
+                Quaternion startPos = enemyCardsRotations.ElementAt(counter);
+                Quaternion endPos = Quaternion.Euler(new Vector3(180, 0, 0));
+                
+                enemyCard.transform.localRotation = Quaternion.Lerp(startPos, endPos, (elapsedTime / time));
+                elapsedTime += Time.deltaTime;
+                yield return null;
+            }
+        }
+        
+        float playerScore = CalculateScore(1);
+        float enemyScore = CalculateScore(-1);
+        
+        
+        
+        yield return new WaitForSeconds(5f);
+
+        TextMeshProUGUI winOrLose = winOrLoseCanvas.transform.GetChild(1).GetComponent<TextMeshProUGUI>();
+        winOrLose.text = playerScore > enemyScore ? winOrLose.text = "Victory" : winOrLose.text = "Defeat";
         winOrLoseCanvas.SetActive(true);
         yield return new WaitForSeconds(3f);
         canProgress?.Invoke(playerScore > enemyScore);
